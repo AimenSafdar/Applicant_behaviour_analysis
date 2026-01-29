@@ -1,0 +1,36 @@
+user_id,session_id,page_name,time_spent_seconds,event_type,application_stage,device_type,traffic_source,date
+U001,S001,Home,45,view,Awareness,Mobile,Organic,2026-01-10
+U001,S001,Internship Listing,120,click,Consideration,Mobile,Organic,2026-01-10
+U001,S001,Internship Detail,180,view,Consideration,Mobile,Organic,2026-01-10
+U001,S001,Application Form,90,exit,Drop-off,Mobile,Organic,2026-01-10
+U002,S002,Home,60,view,Awareness,Desktop,LinkedIn,2026-01-10
+U002,S002,Internship Listing,140,click,Consideration,Desktop,LinkedIn,2026-01-10
+U002,S002,Internship Detail,200,view,Consideration,Desktop,LinkedIn,2026-01-10
+U002,S002,Application Form,240,submit,Applied,Desktop,LinkedIn,2026-01-10
+U002,S002,Confirmation Page,30,view,Completed,Desktop,LinkedIn,2026-01-10
+U003,S003,Home,30,exit,Drop-off,Mobile,Direct,2026-01-11
+U004,S004,Home,50,view,Awareness,Laptop,Organic,2026-01-11
+U004,S004,Internship Listing,110,click,Consideration,Laptop,Organic,2026-01-11
+U004,S004,Internship Detail,160,view,Consideration,Laptop,Organic,2026-01-11
+U004,S004,Application Form,100,exit,Drop-off,Laptop,Organic,2026-01-11
+U005,S005,Home,70,view,Awareness,Desktop,Facebook,2026-01-12
+U005,S005,Internship Listing,130,click,Consideration,Desktop,Facebook,2026-01-12
+U005,S005,Internship Detail,210,view,Consideration,Desktop,Facebook,2026-01-12
+U005,S005,Application Form,260,submit,Applied,Desktop,Facebook,2026-01-12
+U005,S005,Confirmation Page,35,view,Completed,Desktop,Facebook,2026-01-12
+U006,S006,Home,40,view,Awareness,Mobile,Organic,2026-01-12
+U006,S006,Internship Listing,95,click,Consideration,Mobile,Organic,2026-01-12
+U006,S006,Internship Detail,150,view,Consideration,Mobile,Organic,2026-01-12
+U006,S006,Application Form,80,exit,Drop-off,Mobile,Organic,2026-01-12
+U007,S007,Home,55,view,Awareness,Desktop,LinkedIn,2026-01-13
+U007,S007,Internship Listing,125,click,Consideration,Desktop,LinkedIn,2026-01-13
+U007,S007,Internship Detail,190,view,Consideration,Desktop,LinkedIn,2026-01-13
+U007,S007,Application Form,220,submit,Applied,Desktop,LinkedIn,2026-01-13
+U007,S007,Confirmation Page,40,view,Completed,Desktop,LinkedIn,2026-01-13
+U008,S008,Home,35,view,Awareness,Mobile,Direct,2026-01-13
+U008,S008,Internship Listing,60,exit,Drop-off,Mobile,Direct,2026-01-13
+U009,S009,Home,65,view,Awareness,Laptop,Organic,2026-01-14
+U009,S009,Internship Listing,140,click,Consideration,Laptop,Organic,2026-01-14
+U009,S009,Internship Detail,205,view,Consideration,Laptop,Organic,2026-01-14
+U009,S009,Application Form,250,submit,Applied,Laptop,Organic,2026-01-14
+U009,S009,Confirmation Page,38,view,Completed,Laptop,Organic,2026-01-14
